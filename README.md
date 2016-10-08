@@ -1,2 +1,2 @@
 # JavaProjects
-A repository for cs246 a software dev class in which we use java
+A repository for cs246 a software dev course in which we use java
